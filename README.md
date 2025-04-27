@@ -17,6 +17,18 @@ Everything is built from scratch using **jsonwebtoken** for secure token-based a
 
 ---
 
+---
+
+## ⚠️ Mailtrap Limitation (Read Before Testing)
+
+> **Note:** Email verification and password reset emails **may not be delivered** to all recipients unless your own domain is verified with Mailtrap.
+
+- You can only send emails to addresses that are authorized in your Mailtrap inbox when using an unverified domain.  
+- This is a Mailtrap restriction to prevent abuse from unverified senders.  
+- For full functionality, register your domain with Mailtrap or switch to a provider like **Resend** for production use.
+
+---
+
 ## 📁 Folder Structure
 
 ```
