@@ -63,10 +63,14 @@ npm install
 - Add them to your `.env` file in the backend folder:
 
 ```env
-MAILTRAP_HOST=<your-mailtrap-host>
-MAILTRAP_PORT=<your-mailtrap-port>
-MAILTRAP_USER=<your-mailtrap-username>
-MAILTRAP_PASS=<your-mailtrap-password>
+MONGO_URI=
+PORT=
+JWT_SECRET=
+NODE_ENV=
+MAILTRAP_TOKEN=
+MAILTRAP_ENDPOINT=
+CLIENT_URL=
+
 ```
 
 You can also switch to other providers like **Resend** by updating the email config.
