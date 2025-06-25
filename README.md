@@ -1,4 +1,4 @@
-# 🔐 MERN Authentication & Authorization – No 3rd Party Auth
+# 🔐 MERN Authentication – No 3rd Party Auth
 
 Welcome to the **mern-auth** repository!\
 This project showcases a complete implementation of authentication and authorization using the **MERN stack** – **MongoDB, Express, React, and Node.js** – all without relying on third-party providers like Firebase or Auth0.
